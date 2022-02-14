@@ -59,8 +59,9 @@ class DuplicateFinder:
             'pty',
             'pl',
             'co',
-            'corp'
-            'incorporated'
+            'corp',
+            'incorporated',
+            'group'
         ]
 
         for string in stringsToIgnore:
